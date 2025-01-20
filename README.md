@@ -8,7 +8,8 @@ The system tackles common challenges like counterfeit certificates, inaccurate r
 **Ensure Authenticity of Certificates:**To provide a reliable platform that verifies the genuineness of certificates, reducing the risk of fraud and counterfeit credentials.
 **Provide Secure and Immutable Storage:**To use advanced technologies like blockchain to store certificates securely, ensuring data integrity and preventing unauthorized modifications
 **Support Scalability and Accessibility:**To design a system that can handle large volumes of certificates while being accessible to users across various devices and locations
-**Support Institutional Integrity**To empower institutions to uphold their reputation by providing a secure and trustworthy system for issuing and managing certificates.
+**Support Institutional Integrity**
+To empower institutions to uphold their reputation by providing a secure and trustworthy system for issuing and managing certificates.
 **Enhance Trust and Credibility:**To build trust among employers, institutions, and other stakeholders by ensuring that all certificates are verified and tamper-proof.
 
 ## Proposed Solution
