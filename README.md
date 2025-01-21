@@ -36,3 +36,6 @@ Institutions can revoke certificates if need be e.g. in case of fraud and the bl
 The system incorporates a robust multisignature verification process, requiring approvals from multiple authorized parties before a certificate is considered valid for issuance or before a certificate is revoked.
 ### Itegration mechanisms
 The system integrate with other platforms like job boards or LinkedIn -like profiles to enhance usability.
+
+## Users
+TrustCertify offers a freindly user interface for three kinds of users; **Verifiers**: who in this case may include employers, job boards, goverment authorities, international bodies or any other user who would wish to verify a given academic credential to ascertain its authenticity and credibility, **Certificate holders**: refers to the individuals t whom the certificate is issued to by an institution, **Isseuing Institutions**: bodies authorised to issue certificates and academic credentials to certified individuals.
