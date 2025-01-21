@@ -39,3 +39,6 @@ The system integrate with other platforms like job boards or LinkedIn -like prof
 
 ## Users
 TrustCertify offers a freindly user interface for three kinds of users; **Verifiers**: who in this case may include employers, job boards, goverment authorities, international bodies or any other user who would wish to verify a given academic credential to ascertain its authenticity and credibility, **Certificate holders**: refers to the individuals t whom the certificate is issued to by an institution, **Isseuing Institutions**: bodies authorised to issue certificates and academic credentials to certified individuals.
+
+# Contact  
+Willing for partnerships, contributions,sharing your insights please reach out to me via [cjuma0909@gmail.com](mailto:cjuma0909@gmail.com).
